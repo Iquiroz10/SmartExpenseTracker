@@ -266,3 +266,6 @@ __pycache__/
 # Azurite local storage emulator
 __azurite_db*
 *.azurite
+
+#trainingcloudiq cuenta Claude Marzo2026$
+
