@@ -1,8 +1,13 @@
-using Microsoft.Extensions.Logging;
-using SmartExpenseTracker.Api.Models;
-using SmartExpenseTracker.Api.Services.Interfaces;
 
-namespace SmartExpenseTracker.Api.Services;
+
+using Microsoft.Extensions.Logging;
+using SmartExpenseTracker.Application.Interfaces;
+using SmartExpenseTracker.Domain.Entities;
+using SmartExpenseTracker.Domain.Interfaces;
+
+
+namespace SmartExpenseTracker.Application.Services;
+
 
 public class ExpenseService : IExpenseService
 {

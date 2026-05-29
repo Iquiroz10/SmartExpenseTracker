@@ -3,8 +3,9 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System.Text.Json;
-using SmartExpenseTracker.Api.Models;
-using SmartExpenseTracker.Api.Services.Interfaces;
+using SmartExpenseTracker.Application.Interfaces;
+using SmartExpenseTracker.Domain.Entities;
+
 
 namespace SmartExpenseTracker.Api.Functions;
 

@@ -20,4 +20,10 @@
     <PackageReference Include="Microsoft.Azure.Functions.Worker.Sdk" Version="2.0.7" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SmartExpenseTracker.Domain\SmartExpenseTracker.Domain.csproj" />
+    <ProjectReference Include="..\SmartExpenseTracker.Application\SmartExpenseTracker.Application.csproj" />
+    <ProjectReference Include="..\SmartExpenseTracker.Infrastructure\SmartExpenseTracker.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

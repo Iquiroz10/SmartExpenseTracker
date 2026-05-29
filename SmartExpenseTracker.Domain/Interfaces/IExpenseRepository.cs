@@ -1,6 +1,6 @@
-using SmartExpenseTracker.Api.Models;
+using SmartExpenseTracker.Domain.Entities;
 
-namespace SmartExpenseTracker.Api.Services.Interfaces;
+namespace SmartExpenseTracker.Domain.Interfaces;
 
 public interface IExpenseRepository
 {

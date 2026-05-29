@@ -1,6 +1,5 @@
-using SmartExpenseTracker.Api.Models;
-
-namespace SmartExpenseTracker.Api.Services.Interfaces;
+using SmartExpenseTracker.Domain.Entities;
+namespace SmartExpenseTracker.Application.Interfaces;
 
 public interface IExpenseService
 {

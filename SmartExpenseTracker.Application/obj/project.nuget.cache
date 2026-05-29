@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IFGKpkX/nvg=",
+  "success": true,
+  "projectFilePath": "/Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Application/SmartExpenseTracker.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/irvingquiroz/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.8/microsoft.extensions.dependencyinjection.abstractions.10.0.8.nupkg.sha512",
+    "/Users/irvingquiroz/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.8/microsoft.extensions.logging.abstractions.10.0.8.nupkg.sha512",
+    "/Users/irvingquiroz/.nuget/packages/system.diagnostics.diagnosticsource/10.0.8/system.diagnostics.diagnosticsource.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

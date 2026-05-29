@@ -1,5 +1,4 @@
-namespace SmartExpenseTracker.Api.Models;
-
+namespace SmartExpenseTracker.Domain.Entities;
 public class Expense
 {
     public Guid Id { get; set; }

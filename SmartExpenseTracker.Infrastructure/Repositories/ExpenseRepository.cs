@@ -1,11 +1,12 @@
-using Dapper;
-using Microsoft.Data.SqlClient;
-using Microsoft.Extensions.Configuration;
+using SmartExpenseTracker.Domain.Entities;
+using SmartExpenseTracker.Domain.Interfaces;
 using Microsoft.Extensions.Logging;
-using SmartExpenseTracker.Api.Models;
-using SmartExpenseTracker.Api.Services.Interfaces;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Data.SqlClient;
+using Dapper;
 
-namespace SmartExpenseTracker.Api.Services;
+
+namespace SmartExpenseTracker.Infrastructure.Repositories;
 
 public class ExpenseRepository : IExpenseRepository
 {
