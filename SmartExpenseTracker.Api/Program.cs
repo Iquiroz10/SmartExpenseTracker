@@ -11,5 +11,6 @@ builder.ConfigureFunctionsWebApplication();
 
 // Registro de servicios
 builder.Services.AddScoped<IExpenseService, ExpenseService>();
+builder.Services.AddScoped<IExpenseRepository, ExpenseRepository>();
 
 builder.Build().Run();
