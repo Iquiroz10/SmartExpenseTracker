@@ -12,8 +12,9 @@ var builder = FunctionsApplication.CreateBuilder(args);
 builder.ConfigureFunctionsWebApplication();
 
 // Application Insights
-builder.Services.AddApplicationInsightsTelemetryWorkerService();
-builder.Services.ConfigureFunctionsApplicationInsights();
+builder.Services
+    .AddApplicationInsightsTelemetryWorkerService()
+    .ConfigureFunctionsApplicationInsights();
 
 // Registro de servicios
 builder.Services.AddScoped<IExpenseService, ExpenseService>();

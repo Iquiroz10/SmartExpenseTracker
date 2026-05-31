@@ -1,3 +1,6 @@
+/Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Api/bin/output/SmartExpenseTracker.Infrastructure.deps.json
+/Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Api/bin/output/SmartExpenseTracker.Infrastructure.dll
+/Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Api/bin/output/SmartExpenseTracker.Infrastructure.pdb
 /Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Infrastructure/bin/Debug/net9.0/SmartExpenseTracker.Infrastructure.deps.json
 /Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Infrastructure/bin/Debug/net9.0/SmartExpenseTracker.Infrastructure.dll
 /Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Infrastructure/bin/Debug/net9.0/SmartExpenseTracker.Infrastructure.pdb
@@ -16,6 +19,3 @@
 /Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Infrastructure/obj/Debug/net9.0/refint/SmartExpenseTracker.Infrastructure.dll
 /Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Infrastructure/obj/Debug/net9.0/SmartExpenseTracker.Infrastructure.pdb
 /Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Infrastructure/obj/Debug/net9.0/ref/SmartExpenseTracker.Infrastructure.dll
-/Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Api/bin/output/SmartExpenseTracker.Infrastructure.deps.json
-/Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Api/bin/output/SmartExpenseTracker.Infrastructure.dll
-/Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Api/bin/output/SmartExpenseTracker.Infrastructure.pdb

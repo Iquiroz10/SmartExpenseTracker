@@ -1,3 +1,6 @@
+/Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Api/bin/output/SmartExpenseTracker.Domain.deps.json
+/Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Api/bin/output/SmartExpenseTracker.Domain.dll
+/Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Api/bin/output/SmartExpenseTracker.Domain.pdb
 /Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Domain/bin/Debug/net9.0/SmartExpenseTracker.Domain.deps.json
 /Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Domain/bin/Debug/net9.0/SmartExpenseTracker.Domain.dll
 /Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Domain/bin/Debug/net9.0/SmartExpenseTracker.Domain.pdb
@@ -10,6 +13,3 @@
 /Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Domain/obj/Debug/net9.0/refint/SmartExpenseTracker.Domain.dll
 /Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Domain/obj/Debug/net9.0/SmartExpenseTracker.Domain.pdb
 /Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Domain/obj/Debug/net9.0/ref/SmartExpenseTracker.Domain.dll
-/Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Api/bin/output/SmartExpenseTracker.Domain.deps.json
-/Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Api/bin/output/SmartExpenseTracker.Domain.dll
-/Users/irvingquiroz/SmartExpenseTracker/SmartExpenseTracker.Api/bin/output/SmartExpenseTracker.Domain.pdb
