@@ -33,6 +33,13 @@ jobs:
         with:
           creds: ${{ secrets.AZURE_CREDENTIALS }}
 
+      - name: Configure App Settings
+        run: |
+          az functionapp config appsettings set \
+            --name func-smartexpensetracker \
+            --resource-group rg-smartexpensetracker \
+            --settings "APPLICATIONINSIGHTS_CONNECTION_STRING=${{ secrets.APPLICATIONINSIGHTS_CONNECTION_STRING }}"
+
       - name: Deploy to Azure Functions
         uses: Azure/functions-action@v1
         with:
